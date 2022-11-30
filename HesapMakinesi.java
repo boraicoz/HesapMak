@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Deneme {
+public class HesapMakinesi {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int secim, n1, n2;
